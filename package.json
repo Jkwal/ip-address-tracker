@@ -2,7 +2,7 @@
   "name": "ip-address-tracker-master",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://jkwal.github.io/https://github.com/Jkwal/ip-address-tracker-UDEMY",
+  "homepage": "https://jkwal.github.io/ip-address-tracker-UDEMY",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html --out-dir=build",
