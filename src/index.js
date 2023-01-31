@@ -2,7 +2,7 @@ import 'babel-polyfill';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import {addOffset, addTileLayer, getAdress, validateIp} from './helpers';
-import icon from 'images/icon-location.svg';
+import icon from '../images/icon-location.svg';
 
 const ipInput = document.querySelector('.search-bar__input');
 const btn = document.querySelector('.search-bar__btn');
