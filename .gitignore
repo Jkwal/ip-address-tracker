@@ -20,5 +20,4 @@ node_modules
 build/
 dist/
 .cache/
-.env.local
 
