@@ -1,1 +1,1 @@
-[GitHub Pages] - https://jkwal.github.io/ip-address-tracker-UDEMY/
+[GitHub Pages](https://jkwal.github.io/ip-address-tracker-UDEMY/)
